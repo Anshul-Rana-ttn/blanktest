@@ -1,5 +1,5 @@
 pipeline {
-    agent {label 'sandbox_slave'}
+    agent {label 'sandbox_slave1'}
 
     stages {
         stage('Hello') {
